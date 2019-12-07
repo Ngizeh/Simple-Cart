@@ -1,0 +1,192 @@
+[
+    {
+      "id": 1,
+      "title": "Calico Cat",
+      "thumb": "/images/cat1.jpg",
+      "price": 19.95,
+      "tags": [ "cat", "orange" ]
+    },
+    {
+      "id": 2,
+      "title": "Cat Close Up",
+      "thumb": "/images/cat2.jpg",
+      "price": 23.95,
+      "tags": [ "cat", "face" ]
+    },
+    {
+      "id": 3,
+      "title": "Grey Kitten",
+      "thumb": "/images/cat3.jpg",
+      "price": 17.95,
+      "tags": [ "cat", "kitten" ]
+    },
+    {
+      "id": 4,
+      "title": "Cat Outdoors",
+      "thumb": "/images/cat4.jpg",
+      "price": 17.95,
+      "tags": [ "cat", "outdoors" ]
+    },
+    {
+      "id": 5,
+      "title": "Sneaky Cat",
+      "thumb": "/images/cat5.jpg",
+      "price": 19.95,
+      "tags": [ "cat", "outdoors" ]
+    },
+    {
+      "id": 6,
+      "title": "Fluffy Cat",
+      "thumb": "/images/cat6.jpg",
+      "price": 23.95,
+      "tags": [ "cat", "fluffy" ]
+    },
+    {
+      "id": 7,
+      "title": "Blue-Eyed Cat",
+      "thumb": "/images/cat7.jpg",
+      "price": 19.95,
+      "tags": [ "cat", "blue" ]
+    },
+    {
+      "id": 8,
+      "title": "White Cat",
+      "thumb": "/images/cat8.jpg",
+      "price": 23.95,
+      "tags": [ "cat", "white" ]
+    },
+    {
+      "id": 9,
+      "title": "Orange Cat",
+      "thumb": "/images/cat9.jpg",
+      "price": 19.95,
+      "tags": [ "cat", "orange" ]
+    },
+    {
+      "id": 10,
+      "title": "Cat Pile",
+      "thumb": "/images/cat10.jpg",
+      "price": 27.95,
+      "tags": [ "cat", "pile", "funny" ]
+    },
+    {
+      "id": 11,
+      "title": "Black Cat",
+      "thumb": "/images/cat11.jpg",
+      "price": 27.95,
+      "tags": [ "cat", "black" ]
+    },
+    {
+      "id": 12,
+      "title": "Rottweiler",
+      "thumb": "/images/dog1.jpg",
+      "price": 18.95,
+      "tags": [ "dog", "black" ]
+    },
+    {
+      "id": 13,
+      "title": "Grey dog",
+      "thumb": "/images/dog2.jpg",
+      "price": 23.95,
+      "tags": [ "dog", "grey" ]
+    },
+    {
+      "id": 14,
+      "title": "Dog on grass",
+      "thumb": "/images/dog3.jpg",
+      "price": 23.95,
+      "tags": [ "dog", "grass" ]
+    },
+    {
+      "id": 15,
+      "title": "Sad puppy",
+      "thumb": "/images/dog4.jpg",
+      "price": 23.95,
+      "tags": [ "dog", "puppy" ]
+    },
+    {
+      "id": 16,
+      "title": "Boxer",
+      "thumb": "/images/dog5.jpg",
+      "price": 22.95,
+      "tags": [ "dog", "boxer" ]
+    },
+    {
+      "id": 17,
+      "title": "Looking sideways",
+      "thumb": "/images/dog6.jpg",
+      "price": 19.95,
+      "tags": [ "dog"  ]
+    },
+    {
+      "id": 18,
+      "title": "German shepard",
+      "thumb": "/images/dog7.jpg",
+      "price": 19.95,
+      "tags": [ "dog" ]
+    },
+    {
+      "id": 19,
+      "title": "Sleepy dog",
+      "thumb": "/images/dog8.jpg",
+      "price": 18.95,
+      "tags": [ "dog", "black" ]
+    },
+    {
+      "id": 20,
+      "title": "Happy dog",
+      "thumb": "/images/dog9.jpg",
+      "price": 23.95,
+      "tags": [ "dog", "happy" ]
+    },
+    {
+      "id": 21,
+      "title": "Pink Lily",
+      "thumb": "/images/flower1.jpg",
+      "price": 23.95,
+      "tags": [ "flower", "lily", "pink" ]
+    },
+    {
+      "id": 22,
+      "title": "Orchid",
+      "thumb": "/images/flower2.jpg",
+      "price": 24.95,
+      "tags": [ "flower", "orchid" ]
+    },
+    {
+      "id": 23,
+      "title": "Dandelion",
+      "thumb": "/images/flower3.jpg",
+      "price": 15.95,
+      "tags": [ "flower", "dandeloin" ]
+    },
+    {
+      "id": 24,
+      "title": "Orange flower",
+      "thumb": "/images/flower4.jpg",
+      "price": 24.95,
+      "tags": [ "flower", "orange" ]
+    },
+    {
+      "id": 25,
+      "title": "Water lily",
+      "thumb": "/images/flower5.jpg",
+      "price": 17.95,
+      "tags": [ "flower", "lily" ]
+    },
+    {
+      "id": 25,
+      "title": "Red tulip",
+      "thumb": "/images/flower6.jpg",
+      "price": 18.95,
+      "tags": [ "flower", "tulip", "red" ]
+    },
+    {
+      "id": 26,
+      "title": "Red poppy",
+      "thumb": "/images/flower7.jpg",
+      "price": 22.95,
+      "tags": [ "flower", "poppy", "red" ]
+    }
+  ]
+  
