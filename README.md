@@ -1,4 +1,4 @@
-# post-shop
+# Simple Add to Cart 
 
 ## Project setup
 ```
