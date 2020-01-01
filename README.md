@@ -2,7 +2,7 @@
 
 ## Priview of the Finished App
 
-![](/public/poster-shoper.png)
+![](/public/poster-shop.png)
 
 ## Project setup
 ```
