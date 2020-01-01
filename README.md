@@ -1,5 +1,9 @@
 # post-shop
 
+## Priview of the Finished App
+
+![](/public/poster-shoper.png)
+
 ## Project setup
 ```
 yarn install

@@ -14,7 +14,7 @@
         <p class="mt-4 flex justify-center text-white font-"> Find items with key words <strong class="pl-1"> <em> Cat,dog,flower</em></strong> </p>
     </header>
     <main class="bg-gray-200" :class="{ 'h-screen' : !products.length, 'h-full' : products.length > 0}">
-        <div class="w-10/12 mx-auto flex justify-between pt-8"> 
+        <div class="w-10/12 mx-auto flex justify-between pt-8">
            <!-- <div v-if="loading">
               Loading....
            </div> -->
@@ -32,7 +32,7 @@
                             <p class="py-2 text-blue-700 text-xl font-bold">{{ product.price | totally }}</p>
                             <button @click="addToCart(product)" class="bg-blue-500 text-white px-4 py-1 rounded">Add to cart</button>
                         </div>
-                            
+
                     </div>
               </div>
             </div>
@@ -44,7 +44,7 @@
                     <ul>
                        <li v-for="(item , id ) in cart" :key="id" class="py-2">
                            {{ item.title }}
-                           <p class="py-2">{{ item.price | totally }} x {{ item.quantity }} |  
+                           <p class="py-2">{{ item.price | totally }} x {{ item.quantity }} |
                                <button @click="inc(item)" class="font-bold ml-2 bg-blue-500 px-2 text-xs rounded">+</button>
                                <button @click="dec(item)" class="font-bold ml-2 bg-blue-500 px-2 text-xs rounded">&minus;</button>
                           </p>
@@ -85,10 +85,10 @@ methods : {
                     found = true;
                 }
             }
-            if (!found) 
+            if (!found)
                 {
                     this.cart.push({
-                    id : product.id,    
+                    id : product.id,
                     title : product.title,
                     price : product.price,
                     quantity : 1,
@@ -112,7 +112,7 @@ methods : {
         onSubmit(){
             var app = this;
             app.products = [];
-            app.lastSearch = app.search 
+            app.lastSearch = app.search
             // app.loading = true;
              axios('/search.json')
                 .then(function(response) {
