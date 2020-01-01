@@ -1,4 +1,6 @@
-# Simple Add to Cart 
+# Simple Add to Cart
+
+## Build with Vuejs and TailwindCSS.
 
 ## Priview of the Finished App
 
