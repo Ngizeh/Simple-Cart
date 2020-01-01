@@ -2,7 +2,7 @@
 
 ## Build with Vuejs and TailwindCSS.
 
-## Priview of the Finished App
+## Preview of the Finished App
 
 ![](/public/poster-shop.png)
 
