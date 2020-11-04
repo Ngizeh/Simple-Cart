@@ -94,6 +94,7 @@ methods : {
                     quantity : 1,
                 })
             }
+           scrollTo(0, 300);
         },
         inc(item){
             item.quantity++
