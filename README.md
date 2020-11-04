@@ -4,6 +4,10 @@
 
 ## Preview of the Finished App
 
+Live Preview of the finished App
+
+Check [Here](https://simple-cart.vercel.app).
+
 ![](/public/poster-shop.png)
 
 ## Project setup
