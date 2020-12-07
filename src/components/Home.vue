@@ -53,7 +53,7 @@
 			</div>
 			<div class="bg-gray-900 py-4 flex justify-center text-gray-400 text-sm sm:text-lg">
 				<div>
-					<span>Workcation &copy; {{ date.getFullYear('Y') }} . All rights Preserved. Developed by</span>
+					<span>Workcation &copy; {{ date.getFullYear('Y') }} . All rights Preserved. Developed by </span>
 					<a href="https://github.com/Ngizeh">Edward Mwangi</a>
 				</div>
 			</div>
